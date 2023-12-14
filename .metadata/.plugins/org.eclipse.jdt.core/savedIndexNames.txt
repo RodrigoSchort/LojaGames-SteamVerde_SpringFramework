@@ -1,5 +1,4 @@
 INDEX VERSION 1.134+C:\Users\user\Documents\workspace-spring-tool-suite-4-4.21.0.RELEASE\.metadata\.plugins\org.eclipse.jdt.core
-642899311.index
 3505642773.index
 54703828.index
 2671490217.index
